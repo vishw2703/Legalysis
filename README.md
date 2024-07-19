@@ -1,1 +1,1 @@
-# Legalysis
+Developed a user-friendly website leveraging Machine Learning to analyze privacy concerns within Terms and Conditions. Users simply paste the Terms and Conditions text, and the ML engine identifies clauses related to data collection, usage, and sharing practices. The website then provides feedback on two key aspects: fairness (balance and user rights) and potential privacy risks (data selling, targeted advertising, or extended data retention). This empowers users to make informed decisions about their online privacy.
